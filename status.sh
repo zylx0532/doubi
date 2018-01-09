@@ -5,9 +5,9 @@ export PATH
 #=================================================
 #	System Required: CentOS/Debian/Ubuntu
 #	Description: ServerStatus client + server
-#	Version: 1.0.11
-#	Author: Toyo
-#	Blog: https://doub.io/shell-jc3/
+#	Version: 1.0.13
+#	Author: RuiXin
+#	Blog: https://zhiqiang.name/
 #=================================================
 
 sh_ver="1.0.11"
